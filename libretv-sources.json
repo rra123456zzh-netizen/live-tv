@@ -1,0 +1,66 @@
+{
+  "name": "buddy 实测可用点播源（自动体检维护）",
+  "version": 2,
+  "sources": [
+    {
+      "name": "速播资源",
+      "url": "https://subocaiji.com/api.php/provide/vod"
+    },
+    {
+      "name": "影视工厂(量子)",
+      "url": "https://cj.lziapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "HH资源",
+      "url": "https://hhzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "金鹰点播",
+      "url": "https://jinyingzy.com/api.php/provide/vod"
+    },
+    {
+      "name": "非凡影视",
+      "url": "https://ffzy5.tv/api.php/provide/vod"
+    },
+    {
+      "name": "非凡影视(备用接口)",
+      "url": "http://cj.ffzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "暴风资源",
+      "url": "https://bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "爱奇艺资源站",
+      "url": "https://iqiyizyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "360资源",
+      "url": "https://360zy.com/api.php/provide/vod"
+    },
+    {
+      "name": "360资源(备用域名)",
+      "url": "https://360zy.net/api.php/provide/vod"
+    },
+    {
+      "name": "魔都资源",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "猫眼资源",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod"
+    },
+    {
+      "name": "无尽资源",
+      "url": "https://api.wujinapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "百度资源",
+      "url": "https://api.apibdzy.com/api.php/provide/vod"
+    },
+    {
+      "name": "极速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod"
+    }
+  ]
+}
